@@ -1,0 +1,19 @@
+{
+  "name": "npmassignment",
+  "version": "1.0.0",
+  "description": "n/a",
+  "main": "function sortArray(arr) {.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evertlfreeman/week3assignment.git"
+  },
+  "author": "Evert Freeman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evertlfreeman/week3assignment/issues"
+  },
+  "homepage": "https://github.com/evertlfreeman/week3assignment#readme"
+}
